@@ -8,7 +8,6 @@ fn main() {
     // hello_world();
     // // 打印数字
     // println!("{}", add(2, 5));
-    // println!("hello")
 
     println!("Guess the number!");
 
